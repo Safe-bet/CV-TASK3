@@ -11,6 +11,8 @@ So the main difficulty after dataset creation was training of model. For this I 
 It is requested to run the code in GOOGLE COLAB, as I have preset the path to get prediction from model in that interface, else you will have to modify path to best model.
 So to run the code firstly upload dataset on your drive in MyDrive section and then mount drive. Then run the blocks in up to down order. To predict your own photo, give path to your photo(If you are running in COLAB firstly upload your own photo) in input and check result.
 
+While testing try to give exact headshot of face as I have not used any segmentation model to segment out face.
+
 NOTE- Try to run in COLAB, I have given link to COLAB notebook and also editor access.
 ![Screenshot 2024-05-23 215427](https://github.com/Safe-bet/CV-TASK3/assets/149116096/b19c1b4b-a73e-4736-a7a0-2c4c5f7587ef)
 ![Screenshot 2024-05-23 220950](https://github.com/Safe-bet/CV-TASK3/assets/149116096/3a034b18-2e0a-4598-b617-57b166b392ad)
