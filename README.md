@@ -14,6 +14,7 @@ So to run the code firstly upload dataset on your drive in MyDrive section and t
 While testing try to give exact headshot of face as I have not used any segmentation model to segment out face.
 
 NOTE- Try to run in COLAB, I have given link to COLAB notebook and also editor access.
-![Screenshot 2024-05-23 215427](https://github.com/Safe-bet/CV-TASK3/assets/149116096/b19c1b4b-a73e-4736-a7a0-2c4c5f7587ef)
+![Screenshot 2024-05-23 221451](https://github.com/Safe-bet/CV-TASK3/assets/149116096/e4a55b7a-09c4-409a-ae70-44d5821cad44)
+
 ![Screenshot 2024-05-23 220950](https://github.com/Safe-bet/CV-TASK3/assets/149116096/3a034b18-2e0a-4598-b617-57b166b392ad)
 ![Screenshot 2024-05-23 220839](https://github.com/Safe-bet/CV-TASK3/assets/149116096/370b3c86-6c73-4a96-8b10-7180d68abe31)
