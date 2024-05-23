@@ -1,3 +1,5 @@
+![Screenshot 2024-05-23 220950](https://github.com/Safe-bet/CV-TASK3/assets/149116096/3a034b18-2e0a-4598-b617-57b166b392ad)
+![Screenshot 2024-05-23 220839](https://github.com/Safe-bet/CV-TASK3/assets/149116096/370b3c86-6c73-4a96-8b10-7180d68abe31)
 # CV-TASK3
 Link to DATASET="https://drive.google.com/file/d/1dJieB7idMxv94ILeNEpOgr0KXa407lQi/view?usp=drive_link"
 
