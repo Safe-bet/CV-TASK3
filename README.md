@@ -9,4 +9,5 @@ So the main difficulty after dataset creation was training of model. For this I 
 
 It is requested to run the code in GOOGLE COLAB, as I have preset the path to get prediction from model in that interface, else you will have to modify path to best model.
 So to run the code firstly upload dataset on your drive in MyDrive section and then mount drive. Then run the blocks in up to down order. To predict your own photo, give path to your photo(If you are running in COLAB firstly upload your own photo) in input and check result.
+
 NOTE- Try to run in COLAB, I have given link to COLAB notebook and also editor access.
