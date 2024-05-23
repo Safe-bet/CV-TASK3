@@ -11,3 +11,4 @@ It is requested to run the code in GOOGLE COLAB, as I have preset the path to ge
 So to run the code firstly upload dataset on your drive in MyDrive section and then mount drive. Then run the blocks in up to down order. To predict your own photo, give path to your photo(If you are running in COLAB firstly upload your own photo) in input and check result.
 
 NOTE- Try to run in COLAB, I have given link to COLAB notebook and also editor access.
+![Screenshot 2024-05-23 215427](https://github.com/Safe-bet/CV-TASK3/assets/149116096/b19c1b4b-a73e-4736-a7a0-2c4c5f7587ef)
